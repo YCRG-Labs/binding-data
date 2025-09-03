@@ -1,0 +1,15 @@
+receptor = tlr4_processed.pdbqt
+ligand = resatorvid_processed.pdbqt
+
+center_x = 11.248
+center_y = -5.270
+center_z = -5.104
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+out = ligand_all.pdbqt
+
+exhaustiveness = 8
+num_modes = 1000 
