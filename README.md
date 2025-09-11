@@ -2,7 +2,7 @@
 
 #### Brandon Yee & Maximilian Rutowski
 
-Corresponding: b.yee@ycrg-labs.org
+Correspondence: b.yee@ycrg-labs.org
 
 Generated Using AutoDockingVina:
                                                         
