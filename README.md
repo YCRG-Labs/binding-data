@@ -6,7 +6,7 @@ Corresponding: b.yee@ycrg-labs.org
 
 Generated Using AutoDockingVina:
                                                         
-J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli
+J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli 
 AutoDock Vina 1.2.0: New Docking Methods, Expanded Force    
 Field, and Python Bindings, J. Chem. Inf. Model. (2021)     
 DOI 10.1021/acs.jcim.1c00203                                
