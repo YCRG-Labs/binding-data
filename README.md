@@ -1,6 +1,6 @@
 ## TLR4 Binding Data
 
-#### Brandon Yee & Maximilian Rutowski
+#### Brandon Yee, Maximilian Rutowski, Daniel Huang, Lev Kung, Oliver Pierborne
 
 Available At: https://www.kaggle.com/datasets/bdyeenyc/tlr4-binding-dataset/data
 
