@@ -18,7 +18,7 @@ O. Trott, A. J. Olson, AutoDock Vina: improving the speed and accuracy of dockin
   title        = {TLR4 Binding Dataset},
   author       = {Yee, Brandon and Rutowski, Max and Huang, Daniel and Kung, Lev and Pierborne, Oliver},
   year         = {2025},
-  publisher    = {Kaggle},
+  publisher    = {},
   url          = {https://www.kaggle.com/datasets/bdyeenyc/tlr4-binding-dataset/data},
   note         = {Dataset available on Kaggle}
 }
