@@ -94,8 +94,8 @@ def process_log_file(file_path):
 def main():
     """Main function to process all log files and create CSV output."""
     # Define paths
-    raw_dir = Path("binding-data/raw/logs")
-    output_file = Path("binding-data/processed/processed_logs.csv")
+    raw_dir = Path("raw/logs")
+    output_file = Path("processed/processed_logs.csv")
     
     # Check if raw directory exists
     if not raw_dir.exists():
