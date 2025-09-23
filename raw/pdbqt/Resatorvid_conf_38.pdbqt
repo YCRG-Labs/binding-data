@@ -1,0 +1,51 @@
+REMARK  Name = C:\Users\Maximilian\Desktop\Conformers\converted_pdb\conformers_pdb\Resatorvid_conf_38.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S_1  and  N_4
+REMARK    2  A    between atoms: S_1  and  C_14
+REMARK    3  A    between atoms: N_4  and  C_6
+REMARK    4  A    between atoms: C_19  and  C_20
+REMARK    5  A    between atoms: C_20  and  O_22
+REMARK    6  A    between atoms: O_22  and  C_23
+REMARK    7  A    between atoms: C_23  and  C_24
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   UNL     1      -1.328  -1.694  -0.043  0.00  0.00    +0.000 S 
+ATOM      2  O   UNL     1      -1.531  -2.537   1.185  0.00  0.00    +0.000 OA
+ATOM      3  O   UNL     1      -2.132  -2.301  -1.158  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   UNL     1       0.420  -1.687  -0.486  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       0.880  -3.122  -0.838  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1       2.410  -3.258  -1.053  0.00  0.00    +0.000 C 
+ATOM      7  C   UNL     1       3.168  -1.926  -0.932  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1       2.691  -1.165   0.272  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1       1.377  -1.063   0.528  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   UNL     1       0.957  -0.294   1.717  0.00  0.00    +0.000 C 
+ATOM     11  O   UNL     1       0.057  -0.736   2.480  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  O   UNL     1       1.628   0.894   2.033  0.00  0.00    +0.000 OA
+BRANCH  12  13
+ATOM     13  C   UNL     1       1.323   1.694   3.173  0.00  0.00    +0.000 C 
+ATOM     14  C   UNL     1       0.015   2.449   2.970  0.00  0.00    +0.000 C 
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   4
+BRANCH   1  15
+ATOM     15  N   UNL     1      -1.909  -0.085   0.270  0.00  0.00    +0.000 N 
+ATOM     16  H   UNL     1      -2.176   0.111   1.259  0.00  0.00    +0.000 HD
+BRANCH  15  17
+ATOM     17  C   UNL     1      -2.105   0.931  -0.738  0.00  0.00    +0.000 A 
+ATOM     18  C   UNL     1      -2.655   2.188  -0.386  0.00  0.00    +0.000 A 
+ATOM     19 CL   UNL     1      -3.165   2.560   1.256  0.00  0.00    +0.000 Cl
+ATOM     20  C   UNL     1      -2.831   3.177  -1.361  0.00  0.00    +0.000 A 
+ATOM     21  C   UNL     1      -2.473   2.935  -2.687  0.00  0.00    +0.000 A 
+ATOM     22  F   UNL     1      -2.651   3.898  -3.624  0.00  0.00    +0.000 F 
+ATOM     23  C   UNL     1      -1.943   1.699  -3.049  0.00  0.00    +0.000 A 
+ATOM     24  C   UNL     1      -1.761   0.703  -2.087  0.00  0.00    +0.000 A 
+ENDBRANCH  15  17
+ENDBRANCH   1  15
+TORSDOF 6

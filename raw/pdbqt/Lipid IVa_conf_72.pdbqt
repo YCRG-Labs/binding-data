@@ -1,0 +1,50 @@
+REMARK  Name = C:\Users\Maximilian\Desktop\Conformers\converted_pdb\conformers_pdb\Lipid IVa_conf_72.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N3_1  and  C11_10
+REMARK    2  A    between atoms: C16_5  and  N2_19
+REMARK    3  A    between atoms: C12_12  and  C17_16
+REMARK    4  A    between atoms: C17_16  and  O1_17
+REMARK    5  A    between atoms: N2_19  and  C8_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N3  UNK     0      -0.645   0.461   1.105  0.00  0.00    +0.000 N 
+ATOM      2  N4  UNK     0       1.021   1.996   1.191  0.00  0.00    +0.000 NA
+ATOM      3  N5  UNK     0       3.145  -1.090   0.883  0.00  0.00    +0.000 NA
+ATOM      4  N6  UNK     0       0.799  -1.546   0.858  0.00  0.00    +0.000 N 
+ATOM      5  C16 UNK     0       2.987   0.378   0.996  0.00  0.00    +0.000 C 
+ATOM      6  C19 UNK     0       0.544  -0.158   1.042  0.00  0.00    +0.000 A 
+ATOM      7  C20 UNK     0       1.540   0.756   1.106  0.00  0.00    +0.000 A 
+ATOM      8  C21 UNK     0      -0.318   1.777   1.182  0.00  0.00    +0.000 A 
+ATOM      9  C22 UNK     0       2.174  -1.966   0.807  0.00  0.00    +0.000 C 
+ATOM     10  N7  UNK     0       2.487  -3.352   0.681  0.00  0.00    +0.000 N 
+ATOM     11  H41 UNK     0       1.725  -4.063   0.623  0.00  0.00    +0.000 HD
+ATOM     12  H42 UNK     0       3.481  -3.670   0.644  0.00  0.00    +0.000 HD
+ATOM     13  H1  UNL     1       0.026  -2.241   0.769  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  14
+ATOM     14  C11 UNK     0      -1.983  -0.124   0.949  0.00  0.00    +0.000 C 
+ATOM     15  C13 UNK     0      -2.470   0.045  -0.503  0.00  0.00    +0.000 C 
+ATOM     16  C12 UNK     0      -3.946  -0.422  -0.713  0.00  0.00    +0.000 C 
+ATOM     17  C14 UNK     0      -4.735  -0.633   0.611  0.00  0.00    +0.000 C 
+ATOM     18  C18 UNK     0      -4.283   0.304   1.699  0.00  0.00    +0.000 C 
+ATOM     19  C15 UNK     0      -2.976   0.519   1.886  0.00  0.00    +0.000 C 
+BRANCH  16  20
+ATOM     20  C17 UNK     0      -4.698   0.525  -1.666  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  O1  UNK     0      -4.869   1.785  -1.074  0.00  0.00    +0.000 OA
+ATOM     22  H40 UNK     0      -5.353   2.338  -1.740  0.00  0.00    +0.000 HD
+ENDBRANCH  20  21
+ENDBRANCH  16  20
+ENDBRANCH   1  14
+BRANCH   5  23
+ATOM     23  N2  UNK     0       3.572   1.041  -0.176  0.00  0.00    +0.000 NA
+ATOM     24  H32 UNK     0       3.151   0.625  -1.041  0.00  0.00    +0.000 HD
+BRANCH  23  25
+ATOM     25  C8  UNK     0       5.037   0.897  -0.162  0.00  0.00    +0.000 C 
+ATOM     26  C9  UNK     0       5.686   1.253  -1.491  0.00  0.00    +0.000 C 
+ATOM     27  C10 UNK     0       5.604  -0.202  -1.052  0.00  0.00    +0.000 C 
+ENDBRANCH  23  25
+ENDBRANCH   5  23
+TORSDOF 5

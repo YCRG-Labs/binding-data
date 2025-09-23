@@ -1,0 +1,31 @@
+REMARK  Name = C:\Users\Maximilian\Desktop\Conformers\converted_pdb\conformers_pdb\Thalidomide_conf_1.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N5_3  and  C7_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  UNK     0       0.493   2.586   0.679  0.00  0.00    +0.000 OA
+ATOM      2  O3  UNK     0       0.380  -2.034   0.102  0.00  0.00    +0.000 OA
+ATOM      3  N5  UNK     0      -0.025   0.265   0.581  0.00  0.00    +0.000 N 
+ATOM      4  C11 UNK     0       0.851   1.393   0.489  0.00  0.00    +0.000 C 
+ATOM      5  C12 UNK     0       0.796  -0.850   0.210  0.00  0.00    +0.000 C 
+ATOM      6  C13 UNK     0       2.192   0.961   0.116  0.00  0.00    +0.000 A 
+ATOM      7  C14 UNK     0       2.159  -0.406  -0.053  0.00  0.00    +0.000 A 
+ATOM      8  C16 UNK     0       3.362   1.693  -0.083  0.00  0.00    +0.000 A 
+ATOM      9  C17 UNK     0       3.293  -1.122  -0.432  0.00  0.00    +0.000 A 
+ATOM     10  C18 UNK     0       4.522   0.993  -0.461  0.00  0.00    +0.000 A 
+ATOM     11  C19 UNK     0       4.487  -0.408  -0.635  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  12
+ATOM     12  C7  UNK     0      -1.491   0.318   0.606  0.00  0.00    +0.000 C 
+ATOM     13  C8  UNK     0      -2.045   0.223  -0.827  0.00  0.00    +0.000 C 
+ATOM     14  C9  UNK     0      -3.576   0.177  -0.833  0.00  0.00    +0.000 C 
+ATOM     15  C15 UNK     0      -4.072  -0.950   0.024  0.00  0.00    +0.000 C 
+ATOM     16  N6  UNK     0      -3.320  -1.373   1.166  0.00  0.00    +0.000 N 
+ATOM     17  O4  UNK     0      -5.180  -1.492  -0.232  0.00  0.00    +0.000 OA
+ATOM     18  H25 UNK     0      -3.698  -2.129   1.780  0.00  0.00    +0.000 HD
+ATOM     19  C10 UNK     0      -2.057  -0.775   1.481  0.00  0.00    +0.000 C 
+ATOM     20  O1  UNK     0      -1.452  -1.117   2.533  0.00  0.00    +0.000 OA
+ENDBRANCH   3  12
+TORSDOF 1

@@ -1,0 +1,49 @@
+REMARK  Name = C:\Users\Maximilian\Desktop\Conformers\converted_pdb\conformers_pdb\Cardamonin_conf_7.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_1  and  C8_7
+REMARK    2  A    between atoms: C6_2  and  O1_19
+REMARK    3  A    between atoms: C7_3  and  O2_17
+REMARK    4  A    between atoms: C11_6  and  O3_21
+REMARK    5  A    between atoms: C8_7  and  C12_9
+REMARK    6  A    between atoms: C14_10  and  C13_11
+REMARK    7  A    between atoms: O1_19  and  C20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNK     0      -1.731   0.190   0.490  0.00  0.00    +0.000 A 
+ATOM      2  C6  UNK     0      -2.861  -0.441  -0.076  0.00  0.00    +0.000 A 
+ATOM      3  C7  UNK     0      -1.820   1.535   0.908  0.00  0.00    +0.000 A 
+ATOM      4  C9  UNK     0      -4.057   0.288  -0.229  0.00  0.00    +0.000 A 
+ATOM      5  C10 UNK     0      -3.016   2.244   0.738  0.00  0.00    +0.000 A 
+ATOM      6  C11 UNK     0      -4.131   1.626   0.173  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C8  UNK     0      -0.469  -0.568   0.658  0.00  0.00    +0.000 C 
+ATOM      8  O4  UNK     0      -0.511  -1.737   1.133  0.00  0.00    +0.000 OA
+BRANCH   7   9
+ATOM      9  C12 UNK     0       0.825   0.017   0.244  0.00  0.00    +0.000 C 
+ATOM     10  C14 UNK     0       1.995  -0.587   0.497  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C13 UNK     0       3.312  -0.029   0.103  0.00  0.00    +0.000 A 
+ATOM     12  C16 UNK     0       4.462  -0.481   0.774  0.00  0.00    +0.000 A 
+ATOM     13  C18 UNK     0       5.725   0.011   0.431  0.00  0.00    +0.000 A 
+ATOM     14  C19 UNK     0       5.856   0.950  -0.594  0.00  0.00    +0.000 A 
+ATOM     15  C17 UNK     0       4.724   1.395  -1.281  0.00  0.00    +0.000 A 
+ATOM     16  C15 UNK     0       3.458   0.908  -0.941  0.00  0.00    +0.000 A 
+ENDBRANCH  10  11
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   3  17
+ATOM     17  O2  UNK     0      -0.730   2.161   1.513  0.00  0.00    +0.000 OA
+ATOM     18  H30 UNK     0      -0.774   3.124   1.826  0.00  0.00    +0.000 HD
+ENDBRANCH   3  17
+BRANCH   2  19
+ATOM     19  O1  UNK     0      -2.759  -1.780  -0.489  0.00  0.00    +0.000 OA
+ATOM     20  C20 UNK     0      -3.817  -2.531  -1.077  0.00  0.00    +0.000 C 
+ENDBRANCH   2  19
+BRANCH   6  21
+ATOM     21  O3  UNK     0      -5.311   2.349   0.018  0.00  0.00    +0.000 OA
+ATOM     22  H34 UNK     0      -6.141   1.931  -0.387  0.00  0.00    +0.000 HD
+ENDBRANCH   6  21
+TORSDOF 6

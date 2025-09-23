@@ -1,0 +1,28 @@
+REMARK  Name = C:\Users\Maximilian\Desktop\Conformers\converted_pdb\conformers_pdb\Parthenolide_conf_3.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C9_9
+REMARK    2  A    between atoms: C16_16  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNK     0       0.489   2.738   0.395  0.00  0.00    +0.000 OA
+ATOM      2  O2  UNK     0       2.298   1.177  -0.962  0.00  0.00    +0.000 OA
+ATOM      3  O3  UNK     0       4.278   0.530  -1.998  0.00  0.00    +0.000 OA
+ATOM      4  C4  UNK     0      -0.743   2.074   0.570  0.00  0.00    +0.000 C 
+ATOM      5  C5  UNK     0       0.578   1.386   0.785  0.00  0.00    +0.000 C 
+ATOM      6  C6  UNK     0       1.209   0.520  -0.321  0.00  0.00    +0.000 C 
+ATOM      7  C7  UNK     0       1.811  -0.813   0.227  0.00  0.00    +0.000 C 
+ATOM      8  C8  UNK     0      -1.529   2.083  -0.762  0.00  0.00    +0.000 C 
+ATOM      9  C9  UNK     0      -1.463   2.611   1.810  0.00  0.00    +0.000 C 
+ATOM     10  C10 UNK     0       0.845  -2.026   0.405  0.00  0.00    +0.000 C 
+ATOM     11  C11 UNK     0      -2.563   0.946  -0.869  0.00  0.00    +0.000 C 
+ATOM     12  C12 UNK     0       2.993  -1.026  -0.680  0.00  0.00    +0.000 C 
+ATOM     13  C13 UNK     0      -0.324  -2.182  -0.594  0.00  0.00    +0.000 C 
+ATOM     14  C14 UNK     0       3.271   0.256  -1.294  0.00  0.00    +0.000 C 
+ATOM     15  C15 UNK     0      -1.876  -0.350  -1.205  0.00  0.00    +0.000 C 
+ATOM     16  C16 UNK     0      -1.477  -1.245  -0.276  0.00  0.00    +0.000 C 
+ATOM     17  C17 UNK     0       3.802  -2.086  -0.724  0.00  0.00    +0.000 C 
+ATOM     18  C18 UNK     0      -2.142  -1.318   1.078  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
